@@ -1,4 +1,4 @@
-``` {figure} figures/incl_fig.PNG
+``` {figure} figures/9gcXmoCAEhzFl0QoE9B9XEdseeS3sSZnFjK6NEjf.jpeg
 ---
 width: 50%
 name: fig_mijneerstefiguur
