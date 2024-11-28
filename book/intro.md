@@ -1,4 +1,4 @@
-``` {figure} figures/9gcXmoCAEhzFl0QoE9B9XEdseeS3sSZnFjK6NEjf.jpeg
+``` {figure} figures/1.jpeg
 ---
 width: 50%
 name: fig_mijneerstefiguur
