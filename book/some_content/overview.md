@@ -1,6 +1,6 @@
 # Introduction
 
-This book is aiming to provide European residents with information on Hand Wrist problems, guidance in studying hand problems, some information is for l0cal use (Dutch Language)
+This book is aiming to provide European residents with information on Hand Wrist problems, guidance in studying hand problems, some information is for local use (Dutch Language)
 
 # Chapter 1
 
